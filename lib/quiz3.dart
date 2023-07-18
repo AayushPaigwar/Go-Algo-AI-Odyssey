@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:go_algo/congrats.dart';
-import 'package:go_algo/login3.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'dart:async';
 
