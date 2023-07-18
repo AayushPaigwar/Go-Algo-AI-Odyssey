@@ -20,6 +20,7 @@ class CongratulationsPage extends StatefulWidget {
 class _CongratulationsPageState extends State<CongratulationsPage>
     with TickerProviderStateMixin {
   late AnimationController _controller;
+  // ignore: unused_field
   late Animation<double> _animation;
 
   final TextEditingController _teamNameController = TextEditingController();
