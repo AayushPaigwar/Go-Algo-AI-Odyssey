@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:go_algo/quiz3.dart';
+
+import '../Quiz/quiz3.dart';
 
 class HomePage3 extends StatelessWidget {
   const HomePage3({super.key});

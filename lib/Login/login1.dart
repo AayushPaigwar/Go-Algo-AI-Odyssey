@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:go_algo/quiz1.dart';
+
+import '../Quiz/quiz1.dart';
 
 class PasswordDialog1 extends StatefulWidget {
   const PasswordDialog1({super.key});

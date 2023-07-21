@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:go_algo/login3.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'dart:async';
+
+import '../Login/login3.dart';
 
 class Quiz2 extends StatefulWidget {
   const Quiz2({Key? key}) : super(key: key);

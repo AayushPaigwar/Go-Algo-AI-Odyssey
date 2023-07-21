@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:go_algo/login1.dart';
 import 'package:google_fonts/google_fonts.dart';
+
+import 'Login/login1.dart';
 
 void main() {
   runApp(const MyApp());
